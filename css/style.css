@@ -23,14 +23,14 @@ h1 {
     position: absolute;
 }
 
-.slides {
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    left: 500px;
-    top: 100px;
+.slide-show {
+    display: none;
 }
 
-.pictures {
-    width: 100%;
+.stop {
+    display: block;
+    margin: auto;
+    margin-top: 8px;
+    padding: 5px;
+    font-size: large;
 }
